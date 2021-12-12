@@ -1,2 +1,5 @@
-# SpeechToText
- Python PyQt5
+# Speech To Text Beta
+
+
+<b> ---- Kurulum ----</b>
+ 
