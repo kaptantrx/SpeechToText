@@ -3,9 +3,10 @@
 
 <b> ---- Kurulum ----</b>
 
-Codec_Pack.exe dosyasını çalıştırın ve kurulumu yapınız.
-pip install -r requirements.txt
+Codec_Pack.exe dosyasını çalıştırın ve kurulumu yapınız. <br>
+pip install -r requirements.txt <br>
 py App.py
+<br><br>
 
 
 <b> ---- Kullanım ----</b>
