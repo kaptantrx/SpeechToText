@@ -2,4 +2,8 @@
 
 
 <b> ---- Kurulum ----</b>
+
+pip install -r requirements.txt
+
+py App.py
  
