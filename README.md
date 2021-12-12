@@ -1,2 +1,2 @@
 # SpeechToText
- Python PyQt5 IBM Cloud Api
+ Python PyQt5
